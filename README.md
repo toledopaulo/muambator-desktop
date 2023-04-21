@@ -1,2 +1,6 @@
-# muambator-desktop
-📦 Muambator tracking service for Desktop 
+# 📦 Muambator for Desktop
+
+# Tecnologies
+- Electron
+- TypeScript
+- NodeJS
