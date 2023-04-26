@@ -1,6 +1,1 @@
-# 📦 Muambator for Desktop
-
-# Tecnologies
-- Electron
-- TypeScript
-- NodeJS
+# 📦 Muambator para Desktop
